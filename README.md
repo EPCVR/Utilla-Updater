@@ -6,8 +6,8 @@ Utilla Updater updates your utilla for gtag when a new version comes out.
 # THIS IS NOT MALWARE
 # Steps
 
-1. Turn Off RealTime Protection
-2. Download File
+1. Turn Off "RealTime Protection"
+2. Download the file
 3. Open file
-4. Windows SmartScreen will apear click More info then click Run anway
-5. Put Your PC on Do Not Disturb
+4. "Windows SmartScreen" will apear click "More info" then click "Run anway"
+5. Put Your PC on "Do Not Disturb"
